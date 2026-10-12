@@ -7,7 +7,7 @@ This website provides information about the terms and policies governing the use
 ## App policies
 
 - [Terms & Conditions](terms)
-- Privacy Policy — Coming soon
+- [Privacy Policy](privacy)
 - [Request Account Deletion](delete-account)
 
 ## Contact
