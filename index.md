@@ -8,6 +8,7 @@ This website provides information about the terms and policies governing the use
 
 - [Terms & Conditions](terms)
 - Privacy Policy — Coming soon
+- [Request Account Deletion](delete-account)
 
 ## Contact
 
